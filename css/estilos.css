@@ -34,9 +34,9 @@ header {
     height: 600px;
     background: #bc4e9c;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(0, 0%, 0%, 0.445), hsla(219, 87%, 69%, 0.568)), url(../img/Marrón\ Foto\ Libros\ Editorial\ Tienda\ Online\ Página\ Web.jpg);
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 0%, 0.445), hsla(219, 87%, 69%, 0.568)), url(../img/2020.jpg);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(0, 0%, 0%, 0.582), hsla(0, 0%, 0%, 0.404)), url(../img/Marrón\ Foto\ Libros\ Editorial\ Tienda\ Online\ Página\ Web.jpg);
+    background: linear-gradient(to right, hsla(0, 0%, 0%, 0.582), hsla(0, 0%, 0%, 0.404)), url(../img/2020.jpg);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
@@ -195,7 +195,7 @@ main .sobre-nosotros{
     background: #4d0686;
     display: flex;
     width: 46%;
-    height: 200px;
+    height: 350px;
     align-items: center;
     justify-content: space-evenly;
     border-radius: 5px;
@@ -220,6 +220,7 @@ main .sobre-nosotros{
     font-weight: 300;
     padding-top: 5px;
 }
+
 
 /*  Our team */
 
@@ -278,7 +279,7 @@ footer{
 .content-foo h4{
     color: #fff;
     border-bottom: 3px solid #af20d3;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     margin-bottom: 10px;
 }
 
